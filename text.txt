@@ -1,2 +1,0 @@
-hi, this is my deep learning repository.
-i hope these projects in the folder helps you in understanding deep learning concepts.
